@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Quem Paga a Rodada? 🍺🇲🇿",
+  "description": "Uma aplicação divertida inspirada na cultura moçambicana para decidir quem paga a próxima rodada de cerveja e partilhar o resultado via WhatsApp.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
